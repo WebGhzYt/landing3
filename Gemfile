@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 gem 'ruby'
+gem 'puma'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 gem "rails_12factor"
