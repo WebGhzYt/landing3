@@ -6,7 +6,7 @@ gem 'rails'
 gem 'puma'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
-
+gem 'google-analytics-rails'
 # group :production do
 #   # gem 'rails_log_stdout'
 #   # gem 'rails3_serve_static_assets'

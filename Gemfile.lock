@@ -144,6 +144,7 @@ GEM
     formatador (0.2.5)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
+    google-analytics-rails (0.0.6)
     i18n (0.7.0)
     inflecto (0.0.2)
     ipaddress (0.8.0)
@@ -246,6 +247,7 @@ DEPENDENCIES
   asset_sync
   byebug
   coffee-rails
+  google-analytics-rails
   jbuilder (~> 2.0)
   jquery-rails
   pg
