@@ -8,3 +8,6 @@ default: &default
 development:
   <<: *default
   database: landing3
+production:
+  <<: *default
+  database: landing3
